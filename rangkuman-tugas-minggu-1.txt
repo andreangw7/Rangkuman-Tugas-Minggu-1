@@ -1,0 +1,15 @@
+Rangkuman Minggu ke 1
+1. Menginstal Aplikasi :
+  a. Git
+  b. Membuat Akun Gitlab/Github
+  c. Sourcetree
+  e. Vscode
+  f. Lightshot
+  g. Grepper
+  h. Screen O Matic
+  i. Zoom/ Google Meet
+Mempelajari konfigurasi GIT
+Mempelajari Membuat Branch pada GIT
+Mempelajari GUI, dengan menggunakan aplikasi Sourcetree
+Menginstal aplikasi diff merge.
+Terakhir membuat rangkuman semua yang dilakukan di minggu ke-1 
